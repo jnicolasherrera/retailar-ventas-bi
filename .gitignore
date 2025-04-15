@@ -1,0 +1,22 @@
+
+# Carpetas a ignorar
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Datos sensibles o pesados
+*.csv
+*.xlsx
+*.pbix
+*.bak
+*.json
+
+# Archivos temporales
+*.tmp
+*.log
+*.pyc
+~$*
+
+# VSCode
+.vscode/
